@@ -5,6 +5,6 @@ https://github.com/NassonImugi/Internet-Traffic-Controller/releases/tag/v1.0.0
 
 Visit the link above to download the newest release of Internet Traffic Controller.
 
-DOWNLOAD SYSTEM CONTROLLER BELOW!
+DOWNLOAD SYSTEM CONTROLLER HERE!
 
 https://github.com/NassonImugi/System-Controller
