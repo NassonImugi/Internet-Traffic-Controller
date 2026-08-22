@@ -4,3 +4,7 @@ A modern Windows network utility for monitoring traffic, configuring DNS and MTU
 https://github.com/NassonImugi/Internet-Traffic-Controller/releases/tag/v1.0.0
 
 Visit the link above to download the newest release of Internet Traffic Controller.
+
+DOWNLOAD SYSTEM CONTROLLER BELOW!
+
+https://github.com/NassonImugi/System-Controller
