@@ -1,0 +1,47 @@
+﻿<Window x:Class="InternetTrafficController.Views.AdvancedWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Advanced TCP Settings"
+        Width="500"
+        Height="450"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid Margin="15">
+        <StackPanel>
+
+            <TextBlock Text="TCP Auto Tuning"
+                       FontWeight="Bold"/>
+
+            <ComboBox x:Name="AutoTuneBox"
+                      Margin="0,5,0,15">
+                <ComboBoxItem Content="normal"/>
+                <ComboBoxItem Content="restricted"/>
+                <ComboBoxItem Content="highlyrestricted"/>
+                <ComboBoxItem Content="disabled"/>
+            </ComboBox>
+
+            <TextBlock Text="Congestion Provider"
+                       FontWeight="Bold"/>
+
+            <ComboBox x:Name="CongestionBox"
+                      Margin="0,5,0,15">
+                <ComboBoxItem Content="ctcp"/>
+                <ComboBoxItem Content="cubic"/>
+            </ComboBox>
+
+            <CheckBox x:Name="RssCheck"
+                      Content="Enable RSS"
+                      Margin="0,5"/>
+
+            <CheckBox x:Name="EcnCheck"
+                      Content="Enable ECN"
+                      Margin="0,5"/>
+
+            <Button Content="Apply"
+                    Height="35"
+                    Margin="0,20,0,0"
+                    Click="Apply_Click"/>
+
+        </StackPanel>
+    </Grid>
+</Window>
