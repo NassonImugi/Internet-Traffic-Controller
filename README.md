@@ -7,4 +7,4 @@ Visit the link above to download the newest release of Internet Traffic Controll
 
 DOWNLOAD SYSTEM CONTROLLER HERE!
 
-https://github.com/NassonImugi/System-Controller
+https://github.com/NassonImugi/System-Controller/releases/tag/v1.0.0
