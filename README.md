@@ -9,3 +9,7 @@ https://github.com/NassonImugi/Internet-Traffic-Controller/releases/tag/v1.0.0
 Want an all in one System Tweaker? Download System Controller below.
 
 https://github.com/NassonImugi/System-Controller/releases/tag/v1.0.0
+
+Need to update your USB Drivers? Download USB Driver Installation Assistant below.
+
+https://github.com/NassonImugi/USB-Driver-Installation-Assistant/releases/tag/v1.0.0
